@@ -12,9 +12,9 @@
   "license": "BSD",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "yt-video": "Polymer/yt-video#master",
-    "yt-search": "Polymer/yt-search#master"
+    "polymer": "Polymer/polymer#0.1.3",
+    "yt-video": "Polymer/yt-video#0.1.3",
+    "yt-search": "Polymer/yt-search#0.1.3"
   },
   "ignore": [
     "**/.*",
@@ -22,5 +22,6 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "version": "0.1.3"
 }
